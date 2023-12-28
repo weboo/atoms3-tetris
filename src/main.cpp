@@ -4,6 +4,7 @@
 //
 // Original code from
 // https://github.com/m5stack/M5Stack/tree/master/examples/Games/Tetris
+// TETRIS with M5STACK : 2018.01.20 Transplant by macsbug
 //
 // Controller : Lean = LEFT/RIGHT, Shake = START, ROTATE
 // Display    : Center = 110x120
